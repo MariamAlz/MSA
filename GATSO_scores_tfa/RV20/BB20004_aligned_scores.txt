@@ -1,0 +1,2 @@
+Entropy	SumOfPairs	Star	PercentageOfNonGaps	ScoreWithoutGapPenalty	ScoreWithGapPenalty
+-1946.0318746597889	-5807997	-159973	37.00824499411072	125343	-2270844
